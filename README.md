@@ -13,5 +13,7 @@ Latent Semantic Analysis: https://psycnet.apa.org/record/1997-03612-001
 
 Self Organizing Map: https://blclab.org/wp-content/uploads/2013/02/brm11.pdf
 
+VSA and Kanerva Thesis: http://rctn.org/vs265/kanerva09-hyperdimensional.pdf
+
 ## Setup
 Clone into the repository and run each python file using python3 [filename].py
